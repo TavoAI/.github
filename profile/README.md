@@ -217,11 +217,11 @@ Continuous updates to stay ahead of evolving AI security threats and standards.
 
 *"Tavo AI caught critical prompt injection vulnerabilities that our manual reviews missed. The AI-powered analysis provided actionable remediation steps that saved us weeks of debugging."*
 
-— Sarah Chen, Lead AI Engineer at TechCorp
+— AI Overlord
 
 *"The compliance reporting features helped us achieve ISO 42001 certification 3 months ahead of schedule. The automated monitoring gives us confidence in our AI deployments."*
 
-— Michael Rodriguez, CTO at DataFlow Inc.
+— Sentient LLM X32.3
 
 ---
 
