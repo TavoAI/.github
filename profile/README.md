@@ -3,14 +3,14 @@
 <div align="center">
 
 ![Tavo AI Logo](https://img.shields.io/badge/Tavo%20AI-Security%20Platform-blue?style=for-the-badge&logo=shield&logoColor=white)
-[![Website](https://img.shields.io/badge/Website-gettavo.com-blue?style=flat-square)](https://gettavo.com)
+[![Website](https://img.shields.io/badge/Website-tavoai.net-blue?style=flat-square)](https://tavoai.net)
 [![GitHub Stars](https://img.shields.io/github/stars/TavoAI?style=social)](https://github.com/TavoAI)
 
 **The most comprehensive AI security copilot for developers and organizations**
 
 *Secure your AI implementations with advanced threat detection, compliance automation, and enterprise-grade protection*
 
-[🚀 Get Started](https://gettavo.com) • [📚 Documentation](https://docs.gettavo.com) • [💬 Community](https://github.com/TavoAI/discussions)
+[🚀 Get Started](https://tavoai.net) • [📚 Documentation](https://docs.tavoai.net) • [💬 Community](https://github.com/TavoAI/discussions)
 
 </div>
 
@@ -27,16 +27,16 @@ Build the most comprehensive AI security copilot for developers, offering both f
 
 ## 🏗️ Complete Platform Architecture
 
-| Component | Repository | Description | Status |
-|-----------|------------|-------------|--------|
-| **📦 Multi-Language SDK** | [`tavo-api`](https://github.com/TavoAI/tavo-api) | API client libraries for all major languages | ✅ Live |
-| **💻 CLI Tool** | [`tavo-cli`](https://github.com/TavoAI/tavo-cli) | Command-line scanning interface | ✅ Live |
-| **⚡ GitHub Action** | [`tavo-action`](https://github.com/TavoAI/tavo-action) | CI/CD pipeline integration | ✅ Live |
-| **🛠️ VS Code Extension** | [`vscode-plugin`](https://github.com/TavoAI/vscode-plugin) | IDE-integrated scanning | ✅ Live |
-| **🔄 GitLab Integration** | [`gitlab`](https://github.com/TavoAI/gitlab) | CI/CD pipeline integration | ✅ Live |
-| **☁️ Azure DevOps Integration** | [`azuredevops`](https://github.com/TavoAI/azuredevops) | CI/CD pipeline integration | ✅ Live |
-| **📋 AWS CodeCommit Integration** | [`codecommit`](https://github.com/TavoAI/codecommit) | CI/CD pipeline integration | ✅ Live |
-| **📖 Bitbucket Integration** | [`bitbucket`](https://github.com/TavoAI/bitbucket) | CI/CD pipeline integration | ✅ Live |
+| Component                        | Repository                                                 | Description                                  | Status |
+| -------------------------------- | ---------------------------------------------------------- | -------------------------------------------- | ------ |
+| **📦 Multi-Language SDK**         | [`tavo-api`](https://github.com/TavoAI/tavo-api)           | API client libraries for all major languages | ✅ Live |
+| **💻 CLI Tool**                   | [`tavo-cli`](https://github.com/TavoAI/tavo-cli)           | Command-line scanning interface              | ✅ Live |
+| **⚡ GitHub Action**              | [`tavo-action`](https://github.com/TavoAI/tavo-action)     | CI/CD pipeline integration                   | ✅ Live |
+| **🛠️ VS Code Extension**          | [`vscode-plugin`](https://github.com/TavoAI/vscode-plugin) | IDE-integrated scanning                      | ✅ Live |
+| **🔄 GitLab Integration**         | [`gitlab`](https://github.com/TavoAI/gitlab)               | CI/CD pipeline integration                   | ✅ Live |
+| **☁️ Azure DevOps Integration**   | [`azuredevops`](https://github.com/TavoAI/azuredevops)     | CI/CD pipeline integration                   | ✅ Live |
+| **📋 AWS CodeCommit Integration** | [`codecommit`](https://github.com/TavoAI/codecommit)       | CI/CD pipeline integration                   | ✅ Live |
+| **📖 Bitbucket Integration**      | [`bitbucket`](https://github.com/TavoAI/bitbucket)         | CI/CD pipeline integration                   | ✅ Live |
 
 ### Data Flow Architecture
 
@@ -98,12 +98,12 @@ Tavo AI ensures compliance with the latest AI security standards:
 
 ## 💰 Pricing Tiers
 
-| Tier | Features | Target | Price |
-|------|----------|--------|-------|
-| **🆓 Free** | Basic heuristics, CLI tool, limited scans | Individual developers | $0 |
-| **👨‍💻 Developer** | AI analysis, VS Code extension, API access | Small teams | $19/month |
-| **🏢 Business** | Full compliance reports, GitHub integration | Growing companies | $59/month |
-| **🏗️ Enterprise** | Custom rules, organization management, audit logs | Large enterprises | $99/month |
+| Tier             | Features                                          | Target                | Price     |
+| ---------------- | ------------------------------------------------- | --------------------- | --------- |
+| **🆓 Free**       | Basic heuristics, CLI tool, limited scans         | Individual developers | $0        |
+| **👨‍💻 Developer**  | AI analysis, VS Code extension, API access        | Small teams           | $19/month |
+| **🏢 Business**   | Full compliance reports, GitHub integration       | Growing companies     | $59/month |
+| **🏗️ Enterprise** | Custom rules, organization management, audit logs | Large enterprises     | $99/month |
 
 ### Enterprise Features
 
@@ -149,7 +149,7 @@ Tavo AI combines the best of both worlds:
 
 ### Quick Start
 
-1. **Visit [gettavo.com](https://gettavo.com)** to create your account
+1. **Visit [tavoai.net](https://tavoai.net)** to create your account
 2. **Install the CLI tool**:
    ```bash
    pip install tavo-cli
@@ -227,10 +227,10 @@ Continuous updates to stay ahead of evolving AI security threats and standards.
 
 ## 🤝 Community & Support
 
-- **📖 [Documentation](https://docs.gettavo.com)**: Comprehensive guides and API reference
+- **📖 [Documentation](https://docs.tavoai.net)**: Comprehensive guides and API reference
 - **💬 [GitHub Discussions](https://github.com/TavoAI/discussions)**: Community forum and support
 - **🐛 [Issue Tracker](https://github.com/TavoAI/issues)**: Bug reports and feature requests
-- **📧 [Enterprise Support](mailto:enterprise@gettavo.com)**: Priority support for enterprise customers
+- **📧 [Enterprise Support](mailto:enterprise@tavoai.net**: Priority support for enterprise customers
 
 ### Contributing
 
@@ -250,7 +250,7 @@ Tavo AI is available under multiple licenses:
 
 **Ready to secure your AI implementations?**
 
-[🚀 Start Free Today](https://gettavo.com) • [📧 Contact Sales](mailto:sales@gettavo.com) • [📚 Learn More](https://docs.gettavo.com)
+[🚀 Start Free Today](https://tavoai.net) • [📧 Contact Sales](mailto:sales@tavoai.net) • [📚 Learn More](https://docs.tavoai.net)
 
 *Built with ❤️ for the AI security community*
 
