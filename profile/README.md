@@ -27,16 +27,16 @@ Build the most comprehensive AI security copilot for developers, offering both f
 
 ## 🏗️ Complete Platform Architecture
 
-| Component                        | Repository                                                 | Description                                  | Status |
-| -------------------------------- | ---------------------------------------------------------- | -------------------------------------------- | ------ |
-| **📦 Multi-Language SDK**         | [`tavo-api`](https://github.com/TavoAI/tavo-api)           | API client libraries for all major languages | ✅ Live |
-| **💻 CLI Tool**                   | [`tavo-cli`](https://github.com/TavoAI/tavo-cli)           | Command-line scanning interface              | ✅ Live |
-| **⚡ GitHub Action**              | [`tavo-action`](https://github.com/TavoAI/tavo-action)     | CI/CD pipeline integration                   | ✅ Live |
-| **🛠️ VS Code Extension**          | [`vscode-plugin`](https://github.com/TavoAI/vscode-plugin) | IDE-integrated scanning                      | ✅ Live |
-| **🔄 GitLab Integration**         | [`gitlab`](https://github.com/TavoAI/gitlab)               | CI/CD pipeline integration                   | ✅ Live |
-| **☁️ Azure DevOps Integration**   | [`azuredevops`](https://github.com/TavoAI/azuredevops)     | CI/CD pipeline integration                   | ✅ Live |
-| **📋 AWS CodeCommit Integration** | [`codecommit`](https://github.com/TavoAI/codecommit)       | CI/CD pipeline integration                   | ✅ Live |
-| **📖 Bitbucket Integration**      | [`bitbucket`](https://github.com/TavoAI/bitbucket)         | CI/CD pipeline integration                   | ✅ Live |
+| Component                        | Repository                                                 | Description                                  | Status      |
+| -------------------------------- | ---------------------------------------------------------- | -------------------------------------------- | ----------- |
+| **📦 Multi-Language SDK**         | [`tavo-sdk`](https://github.com/TavoAI/tavo-sdk)           | API client libraries for all major languages | ✅ Live      |
+| **💻 CLI Tool**                   | [`tavo-cli`](https://github.com/TavoAI/tavo-cli)           | Command-line scanning interface              | ✅ Live      |
+| **⚡ GitHub Action**              | [`tavo-action`](https://github.com/TavoAI/tavo-action)     | CI/CD pipeline integration                   | Testing     |
+| **🛠️ VS Code Extension**          | [`vscode-plugin`](https://github.com/TavoAI/vscode-plugin) | IDE-integrated scanning                      | Testing     |
+| **🔄 GitLab Integration**         | [`gitlab`](https://github.com/TavoAI/gitlab)               | CI/CD pipeline integration                   | Coming soon |
+| **☁️ Azure DevOps Integration**   | [`azuredevops`](https://github.com/TavoAI/azuredevops)     | CI/CD pipeline integration                   | Coming soon |
+| **📋 AWS CodeCommit Integration** | [`codecommit`](https://github.com/TavoAI/codecommit)       | CI/CD pipeline integration                   | Coming soon |
+| **📖 Bitbucket Integration**      | [`bitbucket`](https://github.com/TavoAI/bitbucket)         | CI/CD pipeline integration                   | Coming soon |
 
 ### Data Flow Architecture
 
