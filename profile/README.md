@@ -31,7 +31,7 @@ Build the most comprehensive AI security copilot for developers, offering both f
 | -------------------------------- | ---------------------------------------------------------- | -------------------------------------------- | ----------- |
 | **📦 Multi-Language SDK**         | [`tavo-sdk`](https://github.com/TavoAI/tavo-sdk)           | API client libraries for all major languages | ✅ Live      |
 | **💻 CLI Tool**                   | [`tavo-cli`](https://github.com/TavoAI/tavo-cli)           | Command-line scanning interface              | ✅ Live      |
-| **⚡ GitHub Action**              | [`tavo-action`](https://github.com/TavoAI/tavo-action)     | CI/CD pipeline integration                   | Testing     |
+| **⚡ GitHub Action**              | [`tavo-github-action`](https://github.com/TavoAI/tavo-github-action)     | CI/CD pipeline integration                   | Testing     |
 | **🛠️ VS Code Extension**          | [`vscode-plugin`](https://github.com/TavoAI/vscode-plugin) | IDE-integrated scanning                      | Testing     |
 | **🔄 GitLab Integration**         | [`gitlab`](https://github.com/TavoAI/gitlab)               | CI/CD pipeline integration                   | Coming soon |
 | **☁️ Azure DevOps Integration**   | [`azuredevops`](https://github.com/TavoAI/azuredevops)     | CI/CD pipeline integration                   | Coming soon |
